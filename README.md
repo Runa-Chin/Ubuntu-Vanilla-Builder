@@ -15,6 +15,12 @@ Please note, this repository is available on both GitHub and Codeberg and is mai
 - [**Runa Inoue Anderson**][runa-chin] as Lead Developer and Documentations for Devel build (on GitHub).
 - [**James "Jim" Ed Randson**][jimed] as Code Committer, Vice Lead Developer, Documentations (on Codeberg), and Tester.
 
+## Where the docs ?
+
+You can read an docs or tutorial how to do it in Wiki sections.
+### [**Go to WIki sections to read our docs/tutorial**](https://github.com/Runa-Chin/Ubuntu-Vanilla-Builder/wiki)
+
+### **Coming Soon** for code. For these times, read a docs/tutorial first. We will delete this section is code are ready to deploy it.
 
 [credits]: https://github.com/mvallim/live-custom-ubuntu-from-scratch
 [runa-chin]: https://github.com/runa-chin
