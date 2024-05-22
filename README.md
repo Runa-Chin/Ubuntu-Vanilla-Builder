@@ -13,7 +13,7 @@ Please note, this repository is available on both GitHub and Codeberg and is mai
 ## Authors 
 
 - [**Runa Inoue Anderson**][runa-chin] as Lead Developer and Documentations for Devel build (on GitHub).
-- [**James "Jim" Ed Randson**][jimed] as Code Committer, Vice Lead Developer, Documentations (on Codeberg), and Tester.
+- [**James "Jim" Ed Randson**][jimed] as Code Committer, Vice Lead Developer, Documentations for LTS build (on Codeberg), and Tester.
 - Any contributor on GitHub and Codeberg which had pull request for improving this repository.
 
 ## Where the docs ?
