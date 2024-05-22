@@ -8,12 +8,13 @@ Welcome to the Ubuntu Vanilla Builder repository. This repository is home for tu
 
 First, I'd like to explain that I was inspired by the repository created by [**Marcos Tischer Vallim**][credits] and that prompted me to create my own version with customizations for the current versions, both LTS which is a two-year release and Devel which is a rolling-release version of Ubuntu.
 
-Please note, this repository is available on both GitHub and Codeberg and is maintained by the Authors below. For automation code, coming soon. This time we will bring the documentation first. And don't be confused, the documentation on GitHub is specific to the Devel edition or the rolling release edition of Ubuntu. For LTS editions, [***please refer to this repository over at Codeberg***][codbrg].
+Please note, this repository is available on both GitHub and Codeberg and is maintained by the Authors below. This time we will bring the documentation first. And don't be confused, the documentation on GitHub is specific to the Devel edition or the rolling release edition of Ubuntu. For LTS editions, [***please refer to this repository over at Codeberg***][codbrg].
 
 ## Authors 
 
 - [**Runa Inoue Anderson**][runa-chin] as Lead Developer and Documentations for Devel build (on GitHub).
 - [**James "Jim" Ed Randson**][jimed] as Code Committer, Vice Lead Developer, Documentations (on Codeberg), and Tester.
+- Any contributor on GitHub and Codeberg which had pull request for improving this repository.
 
 ## Where the docs ?
 
